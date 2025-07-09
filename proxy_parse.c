@@ -4,6 +4,7 @@
 */
 
 #include "proxy_parse.h"
+#include <stddef.h>
 
 #define DEFAULT_NHDRS 8
 #define MAX_REQ_LEN 65535
