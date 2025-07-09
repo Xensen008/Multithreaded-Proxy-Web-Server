@@ -1,1 +1,5 @@
 .vscode
+.work
+proxy.exe
+proxy_parse.o
+proxy_server_with_cache.o
